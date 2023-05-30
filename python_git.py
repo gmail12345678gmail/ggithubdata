@@ -19,3 +19,4 @@ class Student1:
         return c
 
 Student1.add(12,13)
+student1.add(22,23)
